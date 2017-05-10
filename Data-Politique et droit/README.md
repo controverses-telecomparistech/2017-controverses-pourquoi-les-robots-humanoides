@@ -6,4 +6,9 @@ Please commit and push your data  in a [CSV format](https://en.wikipedia.org/wik
 
 More information about this class on: the [website](https://controverses.telecom-paristech.fr)
 
+#### Responsable
+Linda Guiga
+
+#### Enseignant 
+David Smadja
 
