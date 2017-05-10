@@ -1,9 +1,10 @@
-# Your space 
+#Presse et médias
 
-You can edit this markdown document to explain what is inside your folder. 
+Exploration de l’arène médiatique. Recueil et analyse de données, à partir notamment de bases d’articles de presse, afin d’identifier les arguments avancés, les acteurs en présence, ainsi que leurs positions respectives au fil du temps. Il s’agit également de mettre au jour les formes du cadrage médiatique.
 
-Please commit and push your data  in a [CSV format](https://en.wikipedia.org/wiki/Comma-separated_values) and your analysis in a [RTF document](https://en.wikipedia.org/wiki/Rich_Text_Format), both inside this folder. 
+####Responsable
+Olivier Roques
 
-More information about this class on: the [website](https://controverses.telecom-paristech.fr)
-
-
+####Enseignants
+Thomas Tari
+Michael Baker
