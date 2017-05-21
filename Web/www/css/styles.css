@@ -7,16 +7,31 @@ header h1 {
 
 }
 
-.titre-1 {
-	font-size: 30px;
+#header {
+	
+	padding: 250px 0 250px 0 ;
 }
 
-.container {
-	width: 	850px;
+#header p {
+
+	text-align: center;
+	font-size: 50px;
 }
 
-#carousel-example-generic {
-	margin: 45px 0;
+#introduction {
+	padding: 100px 0 0 0;
+}
+
+#controverses {
+	padding: 100px 0 0 0;
+}
+
+section {
+	padding: 100px 0 0 0;
+}
+
+#textrobot {
+	padding: 50px 0 0 0;
 }
 
 footer {
