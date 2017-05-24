@@ -18,6 +18,10 @@ div p {
 	padding-bottom: 70px;
 }
 
+#images>div>p {
+	margin-top: 15px;
+}
+
 #images img {
 	margin: auto;
 	padding: 0;
