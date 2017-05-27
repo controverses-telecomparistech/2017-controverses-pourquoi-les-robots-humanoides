@@ -1,12 +1,15 @@
+p {
+	font-family: 'raleway';
+	text-align:justify;
+}
+
+/************** Header *************/
+/***********************************/
+
 header {
 	background-image: url(../img/visagehumanoid.jpg); 
 	background-repeat: no-repeat;
 	background-size: cover;
-
-}
-
-page-scroll:hover {
-	background-color: pink;
 
 }
 
@@ -19,17 +22,42 @@ header h1 {
 
 }
 
+
+header>div>a {
+	color: black;
+	
+}
+
+/*****************/
+
+
+page-scroll:hover {
+	background-color: pink;
+
+}
+
+section {
+	margin: 50px 0 100px 0;
+}
+
+/************ Buttons *************/
+/**********************************/
+
 #arrowhp {
 	position: absolute;
-	bottom: -180px;
-	left: 550px;
+	bottom: 20px;
+	left: 650px;
+	opacity: 0.8;
 }
 
 #arrowhp:hover{
-	opacity: 0; 
+	opacity: 1; 
 	background-image: url(../img/arrow-down.png); 
 	cursor: pointer;
 }
+
+/*************** ID's *************/
+/**********************************/
 
 #header {
 	padding: 250px 0 250px 0 ;
@@ -44,28 +72,29 @@ header h1 {
 }
 
 #debats div iframe {
-  text-align:center;
-  width:100%;
+	padding: 100px 0 0 0;
+  	text-align:center;
+  	width:100%;
 }
 
 #acteurs div iframe {
-  text-align:center;
-  width:100%;
+	padding: 100px 0 0 0;
+  	text-align:center;
+  	width:100%;
 }
 
 #chronologie {
+	padding: 100px 0 0 0;
 	margin-bottom: 50px;
-}
-
-
-section {
-	margin: 50px 0 30px 0;
 }
 
 #introtext {
 	padding: 50px 0 0 0;
-	font-size: 20px;
 }
+
+/********* Footer ********/
+/*************************/
+
 
 footer {
 	background-color: grey;
@@ -97,7 +126,15 @@ footer a:hover {
 
 }
 
+/********* Custom Fonts **********/
+/*********************************/
+
 @font-face {
     font-family: 'robotaur'; /*a name to be used later*/
     src: url('../fonts/robotaur.ttf'); /*URL to font*/
+}
+
+@font-face {
+	font-family: 'raleway';
+	src: url('../fonts/Raleway-Black.ttf');
 }
