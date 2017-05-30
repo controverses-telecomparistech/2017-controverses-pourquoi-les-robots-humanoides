@@ -1,6 +1,10 @@
 p {
-	font-family: 'raleway';
+	font-family: 'droid';
 	text-align:justify;
+}
+
+section {
+	padding-top: 60px;
 }
 
 /************** Header *************/
@@ -19,7 +23,12 @@ header h1 {
 	margin: 30px 0 30px 0;
 	color: white;
 	font-family: 'robotaur';
+}
 
+header h2, h3 {
+	text-align: center;
+	margin: 30px 0 50px 0;
+	font-family: 'droid';
 }
 
 
@@ -46,7 +55,7 @@ section {
 #arrowhp {
 	position: absolute;
 	bottom: 20px;
-	left: 650px;
+	left: 560px;
 	opacity: 0.8;
 }
 
@@ -64,33 +73,26 @@ section {
 }
 
 #introduction {
-	padding: 100px 0 0 0;
-}
-
-#controverses {
-	padding: 100px 0 0 0;
-}
-
-#debats div iframe {
-	padding: 100px 0 0 0;
-  	text-align:center;
-  	width:100%;
-}
-
-#acteurs div iframe {
-	padding: 100px 0 0 0;
-  	text-align:center;
-  	width:100%;
+	padding-bottom: 100px;
 }
 
 #chronologie {
-	padding: 100px 0 0 0;
-	margin-bottom: 50px;
+	padding-bottom: 50px;
 }
 
-#introtext {
-	padding: 50px 0 0 0;
+#documentation {
+ 	padding-bottom: 100px;
 }
+
+#presseetmedia {
+	padding-bottom: 100px;
+}
+
+#societecivile {
+	padding-bottom: 100px;
+}
+
+
 
 /********* Footer ********/
 /*************************/
@@ -135,6 +137,6 @@ footer a:hover {
 }
 
 @font-face {
-	font-family: 'raleway';
-	src: url('../fonts/Raleway-Black.ttf');
+	font-family: 'droid';
+	src: url('../fonts/DroidSans.ttf');
 }
