@@ -19,14 +19,22 @@ header {
 	background-repeat: no-repeat;
 	background-size: cover;
 
+
 }
 
-header h1 {
+#header-question {
 	font-size: 60px;
 	text-align: center;
-	margin: 30px 0 30px 0;
+	margin: 40px 0 30px 0;
 	color: white;
 	font-family: 'robotaur';
+	padding-top: 10px;
+}
+
+#header-text {
+	color: black;
+	font: "droid";
+    
 }
 
 header h2, h3 {
@@ -68,6 +76,14 @@ header>div>a {
 	padding-bottom: 100px;
 }
 
+#shcontro {
+	padding-bottom: 20px;
+}
+
+#controverse>ul {
+	text-align: left;
+}
+
 #chronologie {
 	padding-bottom: 50px;
 }
@@ -101,9 +117,7 @@ footer {
 
 footer ul {
 
-	padding: 0;
-	list-style-type: none;
-	text-align: center;
+	
 
 }
 
