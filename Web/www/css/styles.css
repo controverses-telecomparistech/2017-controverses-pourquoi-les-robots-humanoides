@@ -33,7 +33,7 @@ header {
 
 #header-text {
 	color: black;
-	font: "droid";
+	font-family: 'droid: 'robotaur';
     
 }
 
@@ -112,7 +112,7 @@ header>div>a {
 
 footer {
 	background-color: grey;
-	padding: 60px;
+	padding: 30px;
 }
 
 footer ul {

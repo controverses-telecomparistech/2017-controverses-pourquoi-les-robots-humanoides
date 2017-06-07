@@ -29,7 +29,7 @@ div p {
 
 footer {
 	background-color: grey;
-	padding: 60px;
+	padding: 30px;
 }
 
 footer ul {
@@ -56,3 +56,6 @@ footer a:hover {
 	text-decoration: none;
 }
 
+body {
+    background-color: lightgrey;
+}
