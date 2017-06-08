@@ -2,7 +2,7 @@
 
 #### Frise chronologique
 
-	La visualisation de la frise utilisée possède une échelle linéaire (chronologique). 
+La visualisation de la frise utilisée possède une échelle linéaire (chronologique). 
 Cependant, il est possible de modifier la taille de l'échelle pour zoomer ou dézoomer 
 l'axe du temps. Chaque évènement est placé sur cette axe avec un drapeau indiquant brièvement son titre. 
 Au dessus de la frise, on peut voir une photo et une description plus complète de chauqe élément.
@@ -13,7 +13,7 @@ l'évènement nous intéressant.
 
 #### Arbre des controverses
 	
-	Dans cette visualisation, le sujet principal est au centre et chaque sous-thème se situe autour,
+Dans cette visualisation, le sujet principal est au centre et chaque sous-thème se situe autour,
 chacun dans une couleur différente. Un clic sur un de ces sous-thèmes dévoile les problématiques en lien 
 avec celui-ci et un clic sur une de ces problématiques fait apparaître l'intitulé de différents arguments. 
 Selon la position (pour/contre) de l'argument par rapport à la question, celui-ci apparaîtra en vert ou 
@@ -28,7 +28,7 @@ l'avantage d'être plus lisible, sans trop d'informations à la fois.
 
 #### Cartographie des acteurs
 
-	Cette visualisation fonctionne de manière similaire à la précédente. Initialement, seuls les sphères 
+Cette visualisation fonctionne de manière similaire à la précédente. Initialement, seuls les sphères 
 (scientifique, culturelle, légale, etc.) sont présentes, chacun possédant sa propre couleur. 
 C'est en cliquant sur chacune de ces sphères que l'utilisateur peut faire apparaître les différents acteurs. 
 Un clic sur un acteur permet d'accéder à sa description ainsi qu'à sa position concernant la controverse des robots
